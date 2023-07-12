@@ -1,0 +1,208 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-container{
+    height: 23vh;
+    background-color:hwb(16 88% 3%);
+    background-position: center;
+    display: flex;
+    padding: 100px;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+   
+}
+.nav-lilte{
+    font-weight: bold;
+    font-size: 40px;
+    padding: 10px;
+}
+.nav-discribtion{
+    width: 400px;
+    padding: 10px;
+}
+.nav-button{
+    background-color: rgb(253, 32, 117);
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.nav-imege{
+    width: 200px;
+    height: 350px;
+    margin-bottom: 0px;
+}
+.feature-title{
+    font-size: 50px;
+    font-weight: bold;
+}
+.feature-container{
+    margin: auto;
+    text-align: center;
+    padding: 40px;
+}
+.feature-dis{
+    padding: 10px; 
+    font-size: 10px;
+}
+.feature-box{
+   background-color: rgba(240, 165, 190, 0.884);
+   height: 375px;
+   width: 300px;
+   padding: 15px;
+   margin: 20px;
+   text-align: center;
+   border-top-right-radius: 130px;
+   border-top-left-radius: 130px;
+}
+.box-image{
+    height:390px;
+    width: 250px;
+}
+.box-text{
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+.feature-all-box{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+}
+.sale-container{
+    margin-top: 95px;
+    padding-right: 30px;
+    background-color: rgb(250, 242, 249);
+    display: flex;
+    justify-content: space-between;
+}
+.sale-off{
+    color: red;
+    font-weight: bold;
+}
+.sale-dis{
+    width: 700px;
+    padding: 10px;
+}
+.sin-btn{
+    background-color: rgb(253, 32, 117);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.photo-item{
+    height:396px;
+    width: 342px;
+    
+}
+.sale-info{
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.instagram-info{
+    margin-top: 40px;
+    padding: 20px;
+    text-align: center;
+    margin: 2px;
+}
+.instagram-container-image{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content:space-around;
+}
+.deals-container{
+    height: 50vh;
+    background-image: url("../stiles/10.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 70px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.deals-info{
+     margin-left: 40%
+}
+.deals-titles{
+    padding: 5px;
+    font-weight: bold;
+}
+.deals-dis{
+    padding: 5px;
+    font-size: 20px;
+}
+.btn-deals{
+    padding: 5px;
+    background-color:rgb(253, 32, 117);
+}
+.shop-container{
+    height: 50vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+}
+.shop-info{
+    width: 900px;
+    padding: 20px;
+}
+.shop-title{
+    font-size:50px;
+    padding: 20px;
+}
+.shop-dis{
+    font-size: 20px;
+    padding: 20px;
+}
+.flower-title{
+    color:red;
+    font-weight: bold;
+}
+.shop-end{
+    color: rgb(149, 153, 153);
+}
+.contact-conainter{
+    display: flex;
+    background-color: rgb(248, 247, 245);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.title-contact{
+    font-size: 40px;
+    padding: 20px;
+}
+.name-title{
+    padding: 2px;
+    gap: 5px;
+}
+.massege-box{
+    margin: 10px;
+}
+.button{
+    font-size: 20px;
+    color: rgb(10, 32, 233);
+    padding: 5px;
+    background-color: bisque;
+    margin-left: 50px;
+    margin-top: 120px;
+}
+.ttl-contact{
+    color: red;
+    font-weight: bold;
+}
